@@ -1,0 +1,10 @@
+Header{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+logo{
+    width: 20vw;
+    height: 20vh;
+}
